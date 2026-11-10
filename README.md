@@ -15,3 +15,8 @@ Repositorio creado para practicar Git y GitHub.
 
 Contenido
 Archivos de prueba y ejercicios de Git.
+
+-----------------
+
+Estoy trabajando en una nueva rama
+
